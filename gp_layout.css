@@ -50,8 +50,12 @@ article {
          width: 100%;
       }
 
-      nav.horizontal li {
+      nav.horizontal {
          order: 99;
+      }
+
+      body > footer {
+         order: 100;
       }
 }
 
