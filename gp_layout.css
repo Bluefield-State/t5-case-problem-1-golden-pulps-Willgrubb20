@@ -30,7 +30,9 @@ body {
    flex-flow: row wrap;
 }
 
-section#sheet{}
+section#sheet{
+   flex
+}
 
 
 
