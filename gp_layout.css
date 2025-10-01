@@ -25,7 +25,10 @@
 
 /* Flex Layout Styles */
 
-
+body {
+   display: flexbox;
+   flex-flow: row wrap;
+}
 
 
 
