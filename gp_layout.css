@@ -50,7 +50,9 @@ article {
          width: 100%;
       }
 
-      nav.horizontal se
+      nav.horizontal li {
+         order: 99;
+      }
 }
 
 
