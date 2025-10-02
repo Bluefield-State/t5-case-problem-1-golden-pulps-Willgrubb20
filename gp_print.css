@@ -29,7 +29,8 @@ nav.horizontal, footer, article {
 /* Comic Book Sheet Styles */
 
 section#sheet {
-   margin: 6in 0in auto;
+   width: 6in;
+   margin: 0 auto;
 }
 
 img.size1 {
@@ -45,7 +46,7 @@ img.size3 {
 }
 
 img.size4 {
-   width: 10in;
+   width: 1.5in;
 }
 
 
