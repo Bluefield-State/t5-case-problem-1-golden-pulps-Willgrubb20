@@ -19,14 +19,18 @@
 
 /* Hidden Objects */
 
-
+nav.horizontal, footer, article {
+   display: none;
+}
 
 
 
 
 /* Comic Book Sheet Styles */
 
-
+section#sheet {
+   
+}
 
 
 
